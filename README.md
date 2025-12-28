@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">⚡ Patan Rasool Khan — Full Stack Developer</h1>
+<h1 align="center"><em>⚡ Patan Rasool Khan — Full Stack Developer</em></h1>
 
 <p align="center">
   <em>Turning ideas into beautiful, scalable, production-ready web apps.</em>
