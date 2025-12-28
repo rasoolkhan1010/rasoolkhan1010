@@ -63,21 +63,28 @@ Track expenses, monitor cash-flow, and stay organized.
 
 # 📊 My Developer Dashboard
 
-<!-- MAIN STATS -->
+<!-- CONTRIBUTION CALENDAR -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasoolkhan1010&show_icons=true&theme=github_dark&cache_seconds=7200" height="170" />
-</p>
-<!-- CONTRIBUTION GRAPH -->
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rasoolkhan1010&bg_color=0D1117&color=00E7FF&line=5B9DFF&point=FFFFFF&hide_border=true"
+  <img 
+    src="https://raw.githubusercontent.com/rasoolkhan1010/rasoolkhan1010/output/github-contribution-grid-snake-dark.svg"
   />
 </p>
 
-<!-- LANGUAGES -->
+<!-- PROFILE SUMMARY -->
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rasoolkhan1010&theme=tokyonight" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasoolkhan1010&theme=tokyonight"
+  />
+</p>
+
+<!-- TOP LANGUAGES -->
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rasoolkhan1010&theme=tokyonight"
+    height="170"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rasoolkhan1010&theme=tokyonight"
     height="170"
   />
 </p>
