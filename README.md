@@ -1,85 +1,101 @@
 <!-- HEADER -->
+<h1 align="center">⚡ Patan Rasool Khan — Full Stack Developer</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2500&pause=900&color=4F46E5&center=true&vCenter=true&width=700&lines=Hey!+I'm+Patan+Rasool+Khan+👋;Full+Stack+Developer+💻;I+Build+Clean+%26+Scalable+Web+Apps+🚀" />
+  <em>Turning ideas into beautiful, scalable, production-ready web apps.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-4F46E5?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-111827?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Lifelong%20Learner-10B981?style=for-the-badge">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Cloud+%26+Deployment;I+build+clean+%26+scalable+web+apps;Always+learning%2C+always+improving&center=true&width=550&height=45">
 </p>
 
 ---
 
-## ✨ About Me
+## 🚀 Who I Am
 
-🔥 I love turning **ideas into real, working web apps**  
-🌍 Experienced with real-world business projects  
-🎯 Focused on clean UI, performance & scalability  
-🚀 Growing everyday — learning, building, improving
+Hi! I’m **Patan Rasool Khan**, a developer who loves:
 
-> “Code should be simple, readable, and useful.”
+✨ Building real-world business applications  
+✨ Designing smooth, modern UIs  
+✨ Making systems fast, scalable & reliable  
+✨ Learning something new — every single day  
+
+> I believe good software is simple, powerful, and built for people — not just machines.
 
 ---
 
-## 🧩 Tech Arsenal
+## 🧠 My Tech Superpowers
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+`HTML` · `CSS` · `JavaScript (ES6)` · `React` · `Tailwind` · `Bootstrap`
 
-### ⚙️ Backend & API
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+### ⚙ Backend
+`Node.js` · `Express`
 
 ### 🗄 Databases
-<img src="https://skillicons.dev/icons?i=postgres" /> &nbsp; Supabase
+`PostgreSQL` · `Supabase`
 
-### ☁️ Cloud & Tools
-<img src="https://skillicons.dev/icons?i=aws,nginx,git,github" />
+### ☁ Cloud & DevOps
+`AWS EC2` · `AWS S3` · `Nginx`
+
+### 🧰 Tools
+`Git` · `GitHub`
 
 ---
 
-## 🚀 Highlighted Projects
+## 💎 Highlight Projects — Built With Love
 
-### 🧠 Virtual AI Voice Assistant — ⭐ Best Project
-AI-powered voice + chat assistant with speech recognition.
+### 🧠 Virtual AI Voice Assistant — ⭐ Best College Project
+Conversational voice + chat assistant with modern UI and real interactions.
 
 ### 📊 Ezy Task Manager
-Organized task tracking with clean UI & productivity in mind.
+Smart task tracking with clean UI and productivity-focused features.
 
-### 📦 IASR — Inventory System
-Real-time inventory dashboards for business workflows.
+### 📦 IASR — Inventory Management System
+Real-time inventory dashboards for business operations.
 
-### 💰 Cashflow Pro
-Track expenses & cash flow with modern UI.
+### 💰 Cashflow Pro — Expense Tracker
+Track expenses, monitor cash-flow, and stay organized.
 
-> Repositories uploading soon — stay tuned 👀
-
----
-
-## 🏆 Achievements
-✔ 🏅 **Best College Project — Virtual AI Voice Assistant**  
-✔ 👨‍💻 Worked on professional, real-world apps  
-✔ 🤝 Strong teamwork & collaboration experience  
+> Repositories & demos are being uploaded — stay tuned 👀
 
 ---
 
-## 📈 GitHub Vibes
+# 📊 My Developer Dashboard
+
+> **Everything happening on my GitHub — at one glance.**
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rasoolkhan1010&show_icons=true&theme=radical" />
-  <img height="165" src="https://streak-stats.demolab.com?user=rasoolkhan1010&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rasoolkhan1010&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasoolkhan1010&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasoolkhan1010&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-## 🎯 Currently Improving
-✔ Advanced React  
-✔ Scalable backend patterns  
-✔ Cloud deployments  
+## 🏆 Achievements I’m Proud Of
+
+🏅 **Best College Project — Virtual AI Voice Assistant**  
+👨‍💻 Worked on real-world business web apps  
+🤝 Strong collaboration, teamwork & problem-solving  
 
 ---
 
-## 🤝 Let’s Connect
+## 🎯 What I’m Leveling Up Right Now
+
+🚀 Advanced React patterns  
+🚀 Scalable backend architecture  
+🚀 Cloud deployment & optimization  
+
+---
+
+## 🤝 Connect With Me
 
 📧 Email — **rasoolkhan99088@gmail.com**  
 🔗 LinkedIn — **linkedin.com/in/patan-rasool-khan**  
@@ -88,5 +104,6 @@ Track expenses & cash flow with modern UI.
 ---
 
 <p align="center">
-  <b>⭐ If my work inspires you, consider starring the repos — it motivates me!</b>
+  <b>⭐ If you like my work, star a repo — it means a lot!</b>
 </p>
+
