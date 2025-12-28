@@ -65,12 +65,8 @@ Track expenses, monitor cash-flow, and stay organized.
 
 <!-- MAIN STATS -->
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=rasoolkhan1010&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rasoolkhan1010&show_icons=true&theme=github_dark&cache_seconds=7200" height="170" />
 </p>
-
 <!-- CONTRIBUTION GRAPH -->
 <p align="center">
   <img
