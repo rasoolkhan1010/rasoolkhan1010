@@ -63,17 +63,29 @@ Track expenses, monitor cash-flow, and stay organized.
 
 # 📊 My Developer Dashboard
 
+<!-- MAIN STATS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasoolkhan1010&show_icons=true&theme=github_dark&cache_seconds=7200" height="170" />
+  <img 
+    src="https://streak-stats.demolab.com?user=rasoolkhan1010&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
 </p>
 
+<!-- CONTRIBUTION GRAPH -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rasoolkhan1010&theme=github-dark&date_format=j%20M%5B%20Y%5D" height="170" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rasoolkhan1010&bg_color=0D1117&color=00E7FF&line=5B9DFF&point=FFFFFF&hide_border=true"
+  />
 </p>
 
+<!-- LANGUAGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasoolkhan1010&layout=compact&theme=github_dark&langs_count=6" height="170" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rasoolkhan1010&theme=tokyonight" 
+    height="170"
+  />
 </p>
+
 
 
 <p align="center">
