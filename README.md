@@ -63,19 +63,18 @@ Track expenses, monitor cash-flow, and stay organized.
 
 # 📊 My Developer Dashboard
 
-> **Everything happening on my GitHub — at one glance.**
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasoolkhan1010&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rasoolkhan1010&show_icons=true&theme=github_dark&cache_seconds=7200" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasoolkhan1010&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=rasoolkhan1010&theme=github-dark&date_format=j%20M%5B%20Y%5D" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasoolkhan1010&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasoolkhan1010&layout=compact&theme=github_dark&langs_count=6" height="170" />
 </p>
+
 
 ---
 
