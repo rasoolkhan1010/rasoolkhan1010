@@ -76,6 +76,13 @@ Track expenses, monitor cash-flow, and stay organized.
 </p>
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-Active-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Projects-Working%20On-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-orange?style=for-the-badge">
+</p>
+
+
 ---
 
 ## 🏆 Achievements I’m Proud Of
